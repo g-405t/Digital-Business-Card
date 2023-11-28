@@ -2,9 +2,9 @@
   
 A model to create your own simple & respnsive website to serve as a "digital business card".
 Features automatic Desktop/Mobile viewing profiles. This is a great and cost effictive way to market your business or the services that you provide.
-
-Instructions:
 _____________________________________________________________________
+Instructions:
+
   Step 1: Download this repository. Extract the files.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
   Step 2:
@@ -37,7 +37,7 @@ Basically everything in the '../Digital-Business-Card/' folder, upload to the ma
 
 It is important to keep the same file names and file structure. If you don't the files will not be loaded correctly.
 If you want to change the filenames or structure, respectivly update the index.html file with the changes. 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 You now have your very own digital business card.
 _____________________________________________________________________
 
@@ -45,5 +45,5 @@ Hopefully if you have made it this far, that all made sense to you...
 
 If not and you have any questions, please feel free to contact me and I will help you to the best of my ability.
 Be creative, have fun, & enjoy.
-
+_____________________________________________________________________
 //G405T
