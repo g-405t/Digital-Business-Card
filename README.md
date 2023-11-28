@@ -18,22 +18,22 @@ Navigate to '../Digital-Business-Card/assets/images/'
 There are three files in this folder. Swap them out with your designs. 
 Here is a detailed decription of each one their function:
 
-    '../container01b1cd.png' 
+    '../assets/images/container01b1cd.png' 
   This file serves as the main image that is displayed.
   Scan your business card or make one and replace this file with your image.
 
-    '../bgb1cd.gif" -
+    '../assets/images/bgb1cd.gif" -
   This file controls the background, you can pick whatever you like for your and replace it.
 
-    '../cardb1cd.jpg' -
-  This file is simly a screenshot of what I created to be used as a reference.
-  When youre finished, there is no need to include it on your web server.
+    '../assets/images/cardb1cd.jpg' 
+  This file is simly a screenshot of what I created, as to be used for reference.
+  When you're finished, there is no need to include it in your uploads.
   Feel free to delete it entirely.
   
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
   Step 4:
 Upload your modified versions of the files to your websever. 
-Basically everything in the '../Digital-Business-Card/' folder, upload to the main directory (or another directory) of your web server.
+Basically everything in the '../Digital-Business-Card/' folder, upload to the main directory (or another directory of your choosing) of your web server.
 
 It is important to keep the same file names and file structure. If you don't the files will not be loaded correctly.
 If you want to change the filenames or structure, respectivly update the index.html file with the changes. 
